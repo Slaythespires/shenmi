@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import mysql.connector
 
-# 创建 Flask 应用
+# 创建 Flask 应用 666
 app = Flask(__name__)
 
 # 配置数据库连接
